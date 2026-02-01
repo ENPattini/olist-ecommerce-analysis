@@ -1,0 +1,17 @@
+# --- Jupyter Notebooks ---
+# Count notebooks as Python code (not JSON)
+*.ipynb linguist-language=Python linguist-detectable=true linguist-vendored=false
+
+# --- Power BI ---
+# Treat .pbix files as binary but detectable as Power BI
+*.pbix linguist-language=PowerBI linguist-detectable=true linguist-vendored=true
+
+# --- Reports (exports) ---
+# Ignore generated HTML/PDF reports for language stats
+report/*.html linguist-detectable=false linguist-vendored=true
+report/*.pdf linguist-detectable=false linguist-vendored=true
+
+# --- Data & Images ---
+# Treat data and images as binary, not code
+data/** linguist-detectable=false linguist-vendored=true
+images/** linguist-detectable=false linguist-vendored=true

@@ -13,7 +13,7 @@ Focus: actionable insights on sales trends, customer segmentation (RFM), cohort 
 
 ### Tech Stack
 
-- Python: pandas, numpy, seaborn, plotly, prophet
+- Python: pandas, seaborn, plotly, matplotlib, prophet
 - Visualization: Plotly (interactive)
 - Dashboard: Power BI
 - Reproducibility: conda environment.yml
@@ -60,7 +60,6 @@ Olist-Ecommerce-Analysis/
 ├── dashboard/
 │   └── Olist_Analytics_Dashboard.pbix    # Power BI file
 ├── report/
-│   ├── Olist-Ecommerce-Analysis-static.html  # Static HTML exports (EN|IT|ES)
 │   └── Olist-Ecommerce-Analysis.pdf          # PDF export (EN|IT|ES)
 └── images/screenshots                   # Dashboard & notebook screenshots
 ```

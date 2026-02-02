@@ -13,7 +13,7 @@ Enfoque: insights accionables sobre tendencias de ventas, segmentación de clien
 
 ### Tech Stack
 
-- Python: pandas, numpy, seaborn, plotly, prophet
+- Python: pandas, seaborn, plotly, matplotlib, prophet
 - Visualización: Plotly (interactivo)
 - Dashboard: Power BI
 - Reproducibilidad: conda environment.yml
@@ -59,7 +59,6 @@ Olist-Ecommerce-Analysis/
 ├── dashboard/
 │   └── Olist_Analytics_Dashboard.pbix    # Archivo Power BI
 ├── report/
-│   ├── Olist-Ecommerce-Analysis-static.html  # Exports HTML estáticos (EN|IT|ES)
 │   └── Olist-Ecommerce-Analysis.pdf          # Export PDF (EN|IT|ES)
 └── images/screenshots                   # Capturas del dashboard
 ```

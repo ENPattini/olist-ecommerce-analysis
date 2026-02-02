@@ -2,8 +2,8 @@
 
 *Available in: 🇬🇧 English (this file) | 🇪🇸 Español → [README.es.md](README.es.md) | 🇮🇹 Italiano → [README.it.md](README.it.md)*
 
-<img src="https://img.shields.io/badge/python-3.11-blue" alt="Python">
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 End-to-end business analysis of the public Olist dataset (~100k orders, 2016–2018).  
 
